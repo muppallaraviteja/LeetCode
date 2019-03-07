@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnagramMappings/AnagramMappings.iml" filepath="$PROJECT_DIR$/AnagramMappings/AnagramMappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Best Time to Buy and Sell Stock/Best Time to Buy and Sell Stock.iml" filepath="$PROJECT_DIR$/Best Time to Buy and Sell Stock/Best Time to Buy and Sell Stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisappearedNumbers/DisappearedNumbers.iml" filepath="$PROJECT_DIR$/DisappearedNumbers/DisappearedNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameOflife/GameOflife.iml" filepath="$PROJECT_DIR$/GameOflife/GameOflife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generate Parenthesis/Generate Parenthesis.iml" filepath="$PROJECT_DIR$/Generate Parenthesis/Generate Parenthesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IslandPerimeter/IslandPerimeter.iml" filepath="$PROJECT_DIR$/IslandPerimeter/IslandPerimeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetterCombination/LetterCombination.iml" filepath="$PROJECT_DIR$/LetterCombination/LetterCombination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MajorityElement/MajorityElement.iml" filepath="$PROJECT_DIR$/MajorityElement/MajorityElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge Intervals/Merge Intervals.iml" filepath="$PROJECT_DIR$/Merge Intervals/Merge Intervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MissingNumber/MissingNumber.iml" filepath="$PROJECT_DIR$/MissingNumber/MissingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parenthesis/Parenthesis.iml" filepath="$PROJECT_DIR$/Parenthesis/Parenthesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Peak Element/Peak Element.iml" filepath="$PROJECT_DIR$/Peak Element/Peak Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permutations/Permutations.iml" filepath="$PROJECT_DIR$/Permutations/Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlusOne/PlusOne.iml" filepath="$PROJECT_DIR$/PlusOne/PlusOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerXn/PowerXn.iml" filepath="$PROJECT_DIR$/PowerXn/PowerXn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remove Duplicates II/Remove Duplicates II.iml" filepath="$PROJECT_DIR$/Remove Duplicates II/Remove Duplicates II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repeated Substring/Repeated Substring.iml" filepath="$PROJECT_DIR$/Repeated Substring/Repeated Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot Return to origin/Robot Return to origin.iml" filepath="$PROJECT_DIR$/Robot Return to origin/Robot Return to origin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpiraMatrix/SpiraMatrix.iml" filepath="$PROJECT_DIR$/SpiraMatrix/SpiraMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SummaryRanges/SummaryRanges.iml" filepath="$PROJECT_DIR$/SummaryRanges/SummaryRanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniqueCharacter/UniqueCharacter.iml" filepath="$PROJECT_DIR$/UniqueCharacter/UniqueCharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word Break 2/Word Break 2.iml" filepath="$PROJECT_DIR$/Word Break 2/Word Break 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordBreak/WordBreak.iml" filepath="$PROJECT_DIR$/WordBreak/WordBreak.iml" />
+    </modules>
+  </component>
+</project>
