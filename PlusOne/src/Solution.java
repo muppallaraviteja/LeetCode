@@ -1,7 +1,6 @@
 public class Solution {
     public int[] plusOne(int[] digits) {
         int carry=0;
-        Integer.MIN_VALUE
         for(int j=digits.length-1;j>=0;j--){
             if(j==digits.length-1){
                 digits[j]+=1;

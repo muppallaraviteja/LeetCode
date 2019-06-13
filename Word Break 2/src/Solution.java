@@ -1,12 +1,11 @@
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 class Solution {
     public List<String> wordBreak(String s, List<String> wordDict) {
         List<String> li = new ArrayList<>();
         Set<String> wordDictSet=new HashSet<>(wordDict);
+        HashMap map = new HashMap();
+
         boolean[] dp = new boolean[s.length() + 1];
         dp[0] = true;
         for (int i = 1; i <= s.length(); i++){
@@ -17,6 +16,7 @@ class Solution {
                     dp[i] = true;
                     break;
                 }
+                System.out.println();
 
             }
         }
